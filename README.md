@@ -1,14 +1,14 @@
 <p align="center">
-  <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/githubreadmetemplate1.png">
+  <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/ReqBuilder/main/Images/reqbuilder_logo2.png">
 </p>
 
 # Project Title
 
-[Project Name]
+ReqBuilder
 
 ## Description
 
-[Provide a brief overview of what your project is about. Include its purpose, main features, and any relevant information.]
+ReqBuilder is a straightforward application that helps you create a requirements.txt file for your Python projects effortlessly. Just select your project directory, run ReqBuilder, and it quickly generates the dependencies list for you. With clear feedback and error handling, managing Python dependencies has never been easier!
 
 ## Screenshots
 
