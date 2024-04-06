@@ -13,7 +13,7 @@ ReqBuilder is a straightforward application that helps you create a requirements
 ## Screenshots
 
 <p align="center"> 
-<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-1" border="0">
+<img width="400" height="480" src="https://raw.githubusercontent.com/pudszttiot/ReqBuilder/main/Images/screenshot1.png" alt="Screenshot-GIF-1" border="0">
   &nbsp;
 <img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-2" border="0">
   </p>
