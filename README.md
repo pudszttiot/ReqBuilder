@@ -2,9 +2,13 @@
   <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/ReqBuilder/main/Images/reqbuilder_logo2.png">
 </p>
 
-# Project Title
+<h2 align="center">
+
+---
 
 ReqBuilder
+
+---
 
 ## Description
 
@@ -37,9 +41,22 @@ ReqBuilder is a straightforward application that helps you create a requirements
    ```bash
    pip install -r requirements.txt
    ```
+---
+
+> [!TIP]
+> Save yourself valuable time by simply clicking the download button provided below.
+
+<h3 align="center">
+  
+[![Download ReqBuilder](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/reqbuilder/files/latest/download)
+
+</h3>
+
+---
 
 ## Usage
 - **Run the app using the below command:**
+
    ```bash
    python run.py
    ```
