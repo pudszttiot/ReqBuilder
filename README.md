@@ -65,7 +65,30 @@ ReqBuilder is a straightforward application that helps you create a requirements
 
 ## Features
 
-[List the key features of your project. This section should highlight what sets your project apart and why users would want to use it.]
+<ins>**User Interface (UI)**:</ins>
+   - Uses PyQt5 library for a visually appealing interface.
+   - Main window is created with buttons, text fields, and progress bar for easy interaction.
+   - Styled with colors to enhance readability.
+
+<ins>**Functionality**:</ins>
+   - Enables users to select a directory conveniently.
+   - Runs the "pipreqs" command seamlessly to generate the requirements.txt file.
+   - Provides clear feedback on the progress with status labels and a progress bar.
+   - Alerts users with success or error messages.
+
+ <ins>**Worker Thread**:</ins>
+   - Executes the "pipreqs" command in the background without freezing the interface.
+   - Communicates smoothly with the main interface using signals.
+
+<ins>**Menu Bar**:</ins>
+   - Offers additional functionalities through a custom menu bar.
+
+<ins>**Error Handling**:</ins>
+   - Deals with any issues during the process and communicates errors clearly to the user.
+
+<ins>**GUI Styling**:</ins>
+   - Sets up an attractive window with a title, size, and icon for a pleasing experience.
+   - Applies background color and text color to maintain visual harmony.
 
 ## Contributing
 
