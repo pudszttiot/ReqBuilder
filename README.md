@@ -60,7 +60,7 @@ ReqBuilder is a straightforward application that helps you create a requirements
 - **Run the app using the below command:**
 
    ```bash
-   python run.py
+   python ReqBuilder.py
    ```
 
 ## Features
