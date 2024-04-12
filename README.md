@@ -10,6 +10,16 @@ ReqBuilder
 
 ---
 
+## Table of Contents
+
+- [Description](#description)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 ## Description
 
 ReqBuilder is a straightforward application that helps you create a requirements.txt file for your Python projects effortlessly. Just select your project directory, run ReqBuilder, and it quickly generates the dependencies list for you. With clear feedback and error handling, managing Python dependencies has never been easier!
@@ -21,14 +31,6 @@ ReqBuilder is a straightforward application that helps you create a requirements
   &nbsp;
 <img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-2" border="0">
   </p>
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Installation
 
