@@ -34,7 +34,7 @@ ReqBuilder is a straightforward application that helps you create a requirements
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/pudszttiot/Folder-Templates.git
+   git clone https://github.com/pudszttiot/ReqBuilder.git
    ```
 
 2. **Install dependencies:**
@@ -67,7 +67,7 @@ ReqBuilder is a straightforward application that helps you create a requirements
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on [GitHub](https://github.com/pudszttiot/Folder-Templates).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on [GitHub](https://github.com/pudszttiot/ReqBuilder).
 
 ## Contact
 
