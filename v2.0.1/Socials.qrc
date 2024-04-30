@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>../Socials/Github.png</file>
+    <file>../Socials/Youtube.png</file>
+    <file>../Socials/SourceForge.png</file>
+    <file>../Socials/Dailymotion.png</file>
+    <file>../Socials/Blogger.png</file>
+</qresource>
+</RCC>

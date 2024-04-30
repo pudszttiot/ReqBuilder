@@ -1,0 +1,19 @@
+/* styles.css */
+
+QMenuBar {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+QMenuBar::item:selected {
+    background-color: #555555;
+    color: #ffffff;
+}
+
+QMenu {
+    background-color: #ffffff; /* Change the background color of the submenu */
+}
+
+QMenu::item:selected {
+    background-color: #dbdbdb /* Change the background color of the selected submenu item */
+}
